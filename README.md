@@ -11,7 +11,7 @@
     body {
       background-color: powderblue;
     }
-    header {
+    head {
       margin: 25px 25px;
       background-color: blue;
       color: white;

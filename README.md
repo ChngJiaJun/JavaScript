@@ -1,4 +1,4 @@
-<html style= "background-color:hsl(27,72%,72%)">
+<html>
 <header> 
   <style>
     title{font-family:'Courier New', Courier, monospace; font-size:x-large;color: crimson;}

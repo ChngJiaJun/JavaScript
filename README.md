@@ -1,7 +1,12 @@
+<!DOCTYPE html>
 <html>
 
 <head>
+<<<<<<< HEAD
   <title>Introduce Yourself</title>
+=======
+  <title> Introduce Yourself </title>
+>>>>>>> e36b11c56dbfd459cfa2de491e3650f92ea31393
   <style>
     title {
       font-family: 'Courier New', Courier, monospace;
@@ -11,7 +16,11 @@
     body {
       background-color: powderblue;
     }
+<<<<<<< HEAD
     header {
+=======
+    head {
+>>>>>>> e36b11c56dbfd459cfa2de491e3650f92ea31393
       margin: 25px 25px;
       background-color: blue;
       color: white;
@@ -48,7 +57,11 @@
 <body>
 
   <h1> Ch'ng Jia Jun </h1>
+<<<<<<< HEAD
   <img src="My pic.jpeg" alt="Mypic" width="150" height="250">
+=======
+  <img src="My pic.jpeg" alt="Mypic" width="150" height="220">
+>>>>>>> e36b11c56dbfd459cfa2de491e3650f92ea31393
 
   <section>
     <li> Live at Johor Bahru </li>
@@ -109,4 +122,3 @@
   <p>By Ch'ng Jia Jun</p>
 </footer>
 
-</html>

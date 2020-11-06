@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Introduce Yourself</title>
+  <title> Introduce Yourself </title>
   <style>
     title {
       font-family: 'Courier New', Courier, monospace;
@@ -31,7 +31,6 @@
       background-color: rgb(60, 157, 222);
       font-family: 'Times New Roman', Times, serif;
     }
-
     .question {
       color: darkblue;
       background-color: cornflowerblue;
@@ -49,7 +48,7 @@
 <body>
 
   <h1> Ch'ng Jia Jun </h1>
-  <img src="My pic.jpeg" alt="Mypic" width="150" height="250">
+  <img src="My pic.jpeg" alt="Mypic" width="150" height="220">
 
   <section>
     <li> Live at Johor Bahru </li>

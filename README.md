@@ -38,7 +38,6 @@
       margin: 20px;
       padding: 20px;
     }
-
     #intro.html {
       height: 50%;
     }

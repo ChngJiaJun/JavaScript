@@ -3,7 +3,7 @@
 
 <head>
   <title> Introduce Yourself </title>
-  <link href="sa_styles.css" rel="stylesheet" >
+  <link href="sa_styles.css" rel="stylesheet">
   <style type=“text/css”>
     title {
       font-family: 'Courier New', Courier, monospace;

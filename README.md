@@ -1,5 +1,6 @@
-<html>
+<html style= "background-color:hsl(27,72%,72%)">
 <header> 
+  <title>Introduce Yourself</title> 
   <style>
     title{font-family:'Courier New', Courier, monospace; font-size:x-large;color: crimson;}
     header{margin : 25px 25px; background-color: blue; color: white; }
@@ -12,7 +13,6 @@
     h5{color:darkblue;}
     #intro.html{height:50%;}
   </style> 
-  <title>Introduce Yourself</title> 
 </header> 
 
 <body> 

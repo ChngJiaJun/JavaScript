@@ -1,10 +1,15 @@
+<!DOCTYPE html>
 <html>
 <head>
+  <title>Introduce Yourself</title>
   <style>
     title {
       font-family: 'Courier New', Courier, monospace;
       font-size: x-large;
       color: crimson;
+    }
+    body {
+      background-color: powderblue;
     }
     header {
       margin: 25px 25px;
@@ -26,6 +31,7 @@
       background-color: rgb(60, 157, 222);
       font-family: 'Times New Roman', Times, serif;
     }
+
     .question {
       color: darkblue;
       background-color: cornflowerblue;
@@ -33,18 +39,17 @@
       margin: 20px;
       padding: 20px;
     }
+
     #intro.html {
       height: 50%;
     }
   </style>
-
-  <title>Introduce Yourself</title>
 </head>
 
 <body>
 
   <h1> Ch'ng Jia Jun </h1>
-  <img src="My pic.jpeg" alt="Mypic" width="150" height="300">
+  <img src="My pic.jpeg" alt="Mypic" width="150" height="250">
 
   <section>
     <li> Live at Johor Bahru </li>
@@ -67,10 +72,16 @@
       <h2> Why do you study Software engineering? </h2>
       <p> I'm interested at how softwares work and find it might be very useful for the future</p>
     </div>
+  </section>
+
+  <section>
     <div class="question">
       <h3> What have you learned in the Degree? </h3>
       <p> Programming skills, How software works and different knowledges of computer</p>
     </div>
+  </section>
+
+  <section>
     <div class="question">
       <h4> What is your personal goal before 25 years old? </h4>
       <p></p>
@@ -80,6 +91,9 @@
         <li> Improve my skills in computer</li>
       </ul>
     </div>
+  </section>
+
+  <section>
     <div class="question">
       <h5> What is your personal goal before 30 years old? </h5>
       <ul>
@@ -90,9 +104,4 @@
       </ul>
     </div>
   </section>
-</body>
-<footer>
-  <p>By Ch'ng Jia Jun</p>
-</footer>
 
-</html>

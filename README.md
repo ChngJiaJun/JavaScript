@@ -3,7 +3,7 @@
 
 <head>
   <title> Introduce Yourself </title>
-  <style>
+  <style type=“text/css”>
     title {
       font-family: 'Courier New', Courier, monospace;
       font-size: x-large;

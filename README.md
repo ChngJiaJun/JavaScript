@@ -51,7 +51,7 @@
 <body>
 
   <h1> Ch'ng Jia Jun </h1>
-  <img src="My pic.jpeg" alt="Trulli" width="200" height="500">
+  <img src="My pic.jpeg" alt="Trulli">
 
   <section>
     <br> Live at Johor Bahru </br>

@@ -18,8 +18,11 @@
 <body> 
   
   <h1> Ch'ng Jia Jun </h1> 
+
   <section> 
-    <p> Johor Bahru </p> 
+    <p> Live at Johor Bahru </p> 
+    <p> Malaysian </p>
+    <p> 19 years old </p>
   </section> 
 
   <section> 
@@ -32,7 +35,10 @@
       <li>Jogging</li> 
       </ol> 
     </article>
+  </section> 
 
+    <section>
+      <article>
     <h2> Why do you study Software engineering? </h2> 
     <p> I'm interested at how softwares work and find it might be very useful for the future</p> 
 
@@ -54,8 +60,8 @@
       <li> Maybe have a child? </li>
       <li> Get a great job with high salary</li>
       </ul> 
-
-</section> 
+      </article>
+    </section> 
 
 </body> 
 

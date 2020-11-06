@@ -23,10 +23,6 @@
       background-color: blue;
       color: white;
     }
-    article {
-      color: darkblue;
-      background-color: rgb(222, 128, 60);
-    }
     h1 {
       color: rgb(46, 62, 211);
       font-size: large;
